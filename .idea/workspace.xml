@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1999ab5-89bc-4b70-97a5-e2ee9d0b91e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVC/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/JVC/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centralesElectricas/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/centralesElectricas/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/editarNodo.html" beforeDir="false" afterPath="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/editarAsociaciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centralesElectricas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/centralesElectricas/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="proyecto" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/asociarNodos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="117" column="16" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/centralesElectricas/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/centralesElectricas/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/editarAsociaciones.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JVC/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>host</find>
+      <find>dash</find>
+      <find>active</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JVC/home/urls.py" />
+        <option value="$PROJECT_DIR$/JVC/usuario/migrations/0002_auto_20190529_2028.py" />
+        <option value="$PROJECT_DIR$/JVC/usuario/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/JVC/home/views.py" />
+        <option value="$PROJECT_DIR$/JVC/usuario/forms.py" />
+        <option value="$PROJECT_DIR$/JVC/usuario/models.py" />
+        <option value="$PROJECT_DIR$/JVC/usuario/views.py" />
+        <option value="$PROJECT_DIR$/JVC/usuario/templates/usuario/registrarUsuario.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/JVC/JVC/settings.py" />
+        <option value="$PROJECT_DIR$/JVC/home/templates/home/inicioSesion.html" />
+        <option value="$PROJECT_DIR$/proyecto/usuario/urls.py" />
+        <option value="$PROJECT_DIR$/proyecto/usuario/models.py" />
+        <option value="$PROJECT_DIR$/proyecto/templates/dashboard.html" />
+        <option value="$PROJECT_DIR$/proyecto/templates/inicioSesion.html" />
+        <option value="$PROJECT_DIR$/proyecto/templates/registrarUsuario.html" />
+        <option value="$PROJECT_DIR$/proyecto/usuario/forms.py" />
+        <option value="$PROJECT_DIR$/proyecto/usuario/views.py" />
+        <option value="$PROJECT_DIR$/proyecto/proyecto/urls.py" />
+        <option value="$PROJECT_DIR$/proyecto/usuario/templates/usuario/registrarUsuario.html" />
+        <option value="$PROJECT_DIR$/proyecto/usuario/templates/usuario/dashboard.html" />
+        <option value="$PROJECT_DIR$/proyecto/usuario/templates/usuario/inicioSesion.html" />
+        <option value="$PROJECT_DIR$/proyecto/proyecto/settings.py" />
+        <option value="$PROJECT_DIR$/home/templates/home/inicioSesion.html" />
+        <option value="$PROJECT_DIR$/home/forms.py" />
+        <option value="$PROJECT_DIR$/home/urls.py" />
+        <option value="$PROJECT_DIR$/usuario/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/usuario/models.py" />
+        <option value="$PROJECT_DIR$/usuario/urls.py" />
+        <option value="$PROJECT_DIR$/usuario/forms.py" />
+        <option value="$PROJECT_DIR$/home/views.py" />
+        <option value="$PROJECT_DIR$/JVC/settings.py" />
+        <option value="$PROJECT_DIR$/usuario/views.py" />
+        <option value="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/registrarNodo.html" />
+        <option value="$PROJECT_DIR$/home/templates/home/dashboard-OPE.html" />
+        <option value="$PROJECT_DIR$/home/templates/home/dashboard-SUP.html" />
+        <option value="$PROJECT_DIR$/usuario/templates/usuario/actualizarPerfil.html" />
+        <option value="$PROJECT_DIR$/usuario/templates/usuario/actualizarperfil2.html" />
+        <option value="$PROJECT_DIR$/usuario/templates/usuario/cambiarpassword.html" />
+        <option value="$PROJECT_DIR$/usuario/templates/usuario/cambiarPassword2.html" />
+        <option value="$PROJECT_DIR$/usuario/templates/usuario/listaDeUsuarios.html" />
+        <option value="$PROJECT_DIR$/usuario/templates/usuario/registrarUsuario.html" />
+        <option value="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/listaDeCentrales.html" />
+        <option value="$PROJECT_DIR$/centralesElectricas/forms.py" />
+        <option value="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/asociarNodos.html" />
+        <option value="$PROJECT_DIR$/centralesElectricas/models.py" />
+        <option value="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/editarNodo.html" />
+        <option value="$PROJECT_DIR$/centralesElectricas/views.py" />
+        <option value="$PROJECT_DIR$/JVC/urls.py" />
+        <option value="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/editarAsociaciones.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="escobar-silva-vieira-teamjvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="escobar-silva-vieira-teamjvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="escobar-silva-vieira-teamjvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="escobar-silva-vieira-teamjvc" type="462c0819:PsiDirectoryNode" />
+              <item name="centralesElectricas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="escobar-silva-vieira-teamjvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="escobar-silva-vieira-teamjvc" type="462c0819:PsiDirectoryNode" />
+              <item name="centralesElectricas" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="escobar-silva-vieira-teamjvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="escobar-silva-vieira-teamjvc" type="462c0819:PsiDirectoryNode" />
+              <item name="centralesElectricas" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="centralesElectricas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="escobar-silva-vieira-teamjvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="escobar-silva-vieira-teamjvc" type="462c0819:PsiDirectoryNode" />
+              <item name="JVC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\proyecto\proyecto\Usuario\Templates\Usuario" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Victor Vieira\Documents\GitHub\escobar-silva-vieira-teamjvc\centralesElectricas\templates\centralesElectricas" />
+      <recent name="C:\Users\Victor Vieira\Documents\GitHub\escobar-silva-vieira-teamjvc" />
+      <recent name="C:\Users\Victor Vieira\Documents\GitHub\escobar-silva-vieira-teamjvc\usuario\templates\usuario" />
+      <recent name="C:\Users\Victor Vieira\Desktop\jvc-elec\JVC\usuario\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="proyecto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JVC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JVC/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1999ab5-89bc-4b70-97a5-e2ee9d0b91e9" name="Default Changelist" comment="" />
+      <created>1558812201108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558812201108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32962668" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19142176" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.2494043" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49960285" visible="true" weight="0.25177306" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50039715" side_tool="true" weight="0.2606383" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.40425533" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.25177306" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.40425533" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/manage.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/proyecto/usuario/urls.py" />
+    <entry file="file://$PROJECT_DIR$/proyecto/proyecto/urls.py" />
+    <entry file="file://$PROJECT_DIR$/proyecto/usuario/templates/usuario/registrarUsuario.html" />
+    <entry file="file://$PROJECT_DIR$/proyecto/usuario/templates/usuario/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/proyecto/usuario/templates/usuario/inicioSesion.html" />
+    <entry file="file://$PROJECT_DIR$/proyecto/proyecto/settings.py" />
+    <entry file="file://$PROJECT_DIR$/proyecto/usuario/views.py" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/home/inicioSesion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="45" column="39" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/migrations/0002_auto_20190608_1602.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/migrations/0002_auto_20190613_1442.py" />
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/registrarNodo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/home/dashboard-SUP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="84" selection-start-line="42" selection-start-column="84" selection-end-line="42" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/templates/usuario/actualizarperfil2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/templates/usuario/cambiarpassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/templates/usuario/cambiarPassword2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/templates/usuario/listaDeUsuarios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/templates/usuario/actualizarPerfil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="152" column="14" lean-forward="true" selection-start-line="103" selection-start-column="8" selection-end-line="152" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/proyecto/env/Lib/site-packages/django/forms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVC/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/home/dashboard-OPE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="117" column="12" selection-start-line="109" selection-start-column="6" selection-end-line="117" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario/templates/usuario/registrarUsuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/asociarNodos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="117" column="16" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/listaDeCentrales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="129" column="26" lean-forward="true" selection-start-line="108" selection-start-column="12" selection-end-line="129" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVC/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centralesElectricas/templates/centralesElectricas/editarAsociaciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

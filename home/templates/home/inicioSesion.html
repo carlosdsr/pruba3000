@@ -1,0 +1,66 @@
+﻿
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="TeamJVC">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title> Inicio de Sesion</title>
+
+    <link rel="stylesheet" type="text/css" href="static/css/bootstrap1.min.css">
+    <link href="static/css/floating-labels.css" rel="stylesheet">
+    <link href="static/css/estilos1.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/img/logoJVC.png">
+  </head>
+
+<body>
+
+
+    <div class="container">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <a href="#"><img src="static/img/logoJVC.png" width="65rem" height="65rem"></a>
+                <a class="navbar-brand" href="">JVC ELEC</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#BarraDeNavegacion" aria-controls="BarraDeNavegacion" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="BarraDeNavegacion">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="">Iniciar Sesion <span class="sr-only"></span></a>
+                        </li>
+                    </ul>
+                    <a href="#"><img src="static/img/twitter.png" width="30rem" height="30rem"></a>
+                    <a href="#"><img src="static/img/instagram.png" width="30rem" height="30rem"></a>
+                    <a href="#"><img src="static/img/facebook.png" width="28rem" height="28rem"></a>
+                </div>
+            </nav>
+        </header>
+        {% load crispy_forms_tags %}
+        <form method="POST" class="post-form form-signin">
+          <div class="text-center mb-4">
+            <h1 class="h3 mb-3 font-weight-normal">Inicio de Sesion</h1>
+            <p>Introduzca los datos</p>
+          </div>
+          {% csrf_token %}
+          <div class="form-label-group">
+            {{ form.username|as_crispy_field }}
+          </div>
+           <div class="form-label-group">
+            {{ form.password|as_crispy_field }}
+          </div>
+
+          <button class="btn btn-lg btn-primary btn-block" type="submit">Iniciar Sesion</button>
+          <p class="mt-5 mb-3 text-muted text-center">&copy; 2019 - JVC ELEC C.A.</p>
+        </form>
+    </div>
+
+
+    <script type="text/javascript" src="static/js/jquery.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+  </body>
+
+</html>

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\centralesElectricas",
+    "\\centralesElectricas\\migrations",
+    "\\centralesElectricas\\templates",
+    "\\centralesElectricas\\templates\\centralesElectricas",
+    "\\home\\migrations",
+    "\\home\\templates\\home",
+    "\\JVC",
+    "\\usuario\\templates"
+  ],
+  "SelectedNode": "\\centralesElectricas\\views.py",
+  "PreviewInSolutionExplorer": false
+}
